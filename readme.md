@@ -2,6 +2,8 @@
 
 **_Youtube's Live Chat Extractor_** is a Python tool to get the chat messages details from an ongoing YouTube's live video (author's channel ID, author's channel name, publish date and message content). The messages retrieval is made via [Google API Python client library](https://github.com/googleapis/google-api-python-client) and [YouTube Data API v3](https://developers.google.com/youtube/v3).
 
+If you want to learn how to use YouTube Data API v3 you can check this Medium article written by me: [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
+
 ## Prerequisites
 
 It is required to have [Python 3.8](https://www.python.org/) installed on your device. I strongly recommend the [Anaconda Python distribution](https://www.anaconda.com/). Also, we need to obtain an API key and install the [Google API Python Client Library](https://github.com/googleapis/google-api-python-client).
